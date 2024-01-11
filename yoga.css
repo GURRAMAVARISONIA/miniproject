@@ -1,0 +1,182 @@
+/* First web page */
+.yoga1img{
+    background-image: url("https://www.asiadmc.com/sites/default/files/styles/blog_detail/public/field/image/article/7-Steps-to-a-Life-Long-Yoga-Practice-Youll-Love.jpg?itok=HS4TORI4");
+    background-repeat:no-repeat;
+    background-attachment:fixed;   
+    background-size: cover;
+    margin-left 300px;
+    position:fixed;
+    }
+.heading{
+    
+    font-family:'Times New Roman', Times, serif;
+    color:cyan;
+    text-align: center;
+    margin-left: 250px;
+    color:black;
+    text-decoration:underline;
+}
+.button-first{
+    border-radius: 5px;
+    margin: 520px 50px 50px 1200px;
+    position:fixed;
+
+}
+.paragraph{
+    margin-top: 400px;
+   font-weight: bolder;
+   font-family: cursive;
+   font-size: 30px;
+   margin-left: 100px;
+   text-align: center;
+   color:deeppink;
+}
+/* second webpage */
+.yoga2img{
+    background-image: url("https://cdn.pixabay.com/photo/2020/08/22/12/36/yoga-5508336_1280.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+    width: auto;
+
+}
+/* meditation ::-webkit-progress-value */
+.meditationimg{
+    background-image: url("https://miro.medium.com/v2/resize:fit:1400/1*9y4G_g90fWF5Yz9lFYOeUg.jpeg");
+    background-repeat: no-repeat;
+    margin-left: 100px;
+    background-size: cover;
+}
+.medihed{
+    font-size: 50px;
+    color:crimson;
+    text-align: center;
+    font-family: monospace;
+}
+.medpar{
+    font-size: 30px;
+    font-family: cursive;
+    color:darkolivegreen;
+    margin-top: 30px;
+}
+.medbutton1{
+    margin-top: 300px;
+    margin-left: 5px;
+}
+/* health benifits of .yoga */
+/* internal */
+.internalh1{
+    text-align: center;
+    background-color:azure;
+    color:aqua;
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+h2{
+    font-family:cursive;
+    font: 20px;
+    background-color: aliceblue;
+}
+pre{
+    font-size: 20px;
+    font-family:cursive;
+}
+/* external */
+h3{
+    font-size: 35px;
+    text-decoration-line: underline;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.externalbene{
+    background-color:bisque;
+}
+/* emotional */
+.emotional{
+    background-color: azure;
+}
+.emotionh1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: fuchsia;
+    background-color: aquamarine;
+}
+h4{
+    font-size: 35px;
+    color:tomato;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* yoga poses */
+/* standing */
+.standing{
+    background-color:azure;
+}
+h5{
+      font-size: 30px;
+      border-bottom: 2px dasshed black;
+      margin-bottom: 0px;
+      border:2px solid black;
+      background-color:antiquewhite;
+      color:darkviolet;
+      margin-top: 0px;
+}
+ .standingpre{
+    font-size: 20px;
+    font-family: cursive;
+    margin-bottom: 3px;
+ }
+/* sitting */
+.sittingpre{
+    font-size: 20px;
+    font-family: cursive;
+    margin-bottom: 3px;
+}
+/* prone */
+.prone{
+    background-color:black;
+}
+.pronep{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+}
+.proneh{
+    color: blue;
+    font-family: cursive;
+    font-size: px;
+}
+/* supine */
+.supineb{
+    background-color:black;
+}
+.supinep{
+  font-family:monospace;
+  font-size: 25px;
+}
+.supineh5{
+    color: blue;
+    font-family: cursive;
+    font-size: 40px;
+}
+
+/* suryanamaskars */
+.suryab{
+    background-image: url("surya.PNG");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: left 200px;
+    
+}
+
+button{
+   margin-top: 500px;
+   margin-left: 1200px;
+   margin-bottom: 500px;
+    position: fixed;
+    border: 5px solid black;
+}
